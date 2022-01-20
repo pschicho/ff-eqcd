@@ -9,7 +9,7 @@ using anti-Hermitean generators for $SU(3)$ and therefore needs an additional mi
 to switch to standard conventions. For $i<EB>$, the imaginary part is measured, i.e. 
 another minus sign is picked up.
   
-The data is stored in files named as *_b_#.dat, where * is (EE,EB,BB) and # refers to 
+The data is stored in files named as "*_b_#.dat", where * is (EE,EB,BB) and # refers to 
 the inverse lattice coupling, i.e. (24,36,48,72,96,144,192) which is eventually 
 corrected by a constant to account for the $O(a)$-effects. The files are in the format
   
