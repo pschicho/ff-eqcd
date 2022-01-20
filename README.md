@@ -6,7 +6,7 @@ in https://arxiv.org/abs/2112.01407.
 As announced in the publication, we provide data for the three correlators that 
 contribute to the gauge condensate, &lt;EE&gt;, i&lt;EB&gt; and &lt;BB&gt;. All data is obtained 
 using anti-Hermitean generators for SU(3) and therefore needs an additional minus sign
-to switch to standard conventions. For i&lt;EB&gt;, the imaginary part of &lt;EB&gt is measured, i.e. 
+to switch to standard conventions. For i&lt;EB&gt;, the imaginary part of &lt;EB&gt; is measured, i.e. 
 another minus sign is picked up.
   
 The data is stored in files named as CORR_b_SPAC.dat, where CORR is (EE,EB,BB) and SPAC refers to 
