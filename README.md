@@ -2,6 +2,7 @@
 Public release of the lattice data for the different correlators that contribute to
 the force-force-correlator in hot QCD generated
 in https://arxiv.org/abs/2112.01407.
+[![DOI](https://zenodo.org/badge/450130388.svg)](https://zenodo.org/badge/latestdoi/450130388)
 
 As announced in the publication, we provide data for the three correlators that 
 contribute to the gauge condensate, &lt;EE&gt;, i&lt;EB&gt; and &lt;BB&gt;. All data is obtained 
