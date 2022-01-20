@@ -11,7 +11,7 @@ another minus sign is picked up.
   
 The data is stored in files named as CORR_b_SPAC.dat, where CORR is (EE,EB,BB) and SPAC refers to 
 the inverse lattice coupling, i.e. (24,36,48,72,96,144,192) which is eventually 
-corrected by a constant to account for the $O(a)$-effects. The files are in the format
+corrected by a constant to account for the O(a)-effects. The files are in the format
   
   correlator separation    mean of correlator     error of the mean      20 jackknives
   
